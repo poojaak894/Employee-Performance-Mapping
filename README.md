@@ -110,15 +110,7 @@ Contains data science team employee records:
 
 ## Technologies Used
 - MySQL
-- SQL (Advanced Querying Techniques)
+
   
 
----
 
-## Author
-Prepared as part of SQL learning and data analytics practice.
-
----
-
-## Note
-This project is based on structured academic data provided as part of coursework and is intended for learning and portfolio demonstration purposes.
